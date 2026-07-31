@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.github.twa",
-    "sha256_cert_fingerprints": ["31:ED:0A:61:7B:F5:2B:3E:29:26:A5:63:51:EC:3F:4C:1E:2B:6E:56:D4:5A:3A:F1:07:79:EE:C5:17:C9:4F:8C"]
+    "package_name": "io.github.arif15diu.pharmavan",
+    "sha256_cert_fingerprints": ["E8:A0:D9:E7:6C:35:AB:12:D7:D1:91:01:EA:D6:4C:1B:06:AE:5C:8A:16:AF:94:E6:1E:4D:E1:CD:64:7A:AA:5E"]
   }
 }]
